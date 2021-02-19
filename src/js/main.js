@@ -22,3 +22,4 @@ quote.addEventListener('click', () => {
     getPic();
     getQuote();
 });
+
